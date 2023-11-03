@@ -1,0 +1,37 @@
+header{
+    background-color: #c51515;
+    padding: 10px;
+}
+.a{
+    font-size: 200px;
+    margin: 5%;
+    padding: 0%;
+    display: flex;
+    text-align: end;
+    margin-bottom: -4%;
+}
+.p1{
+    font-size: 80px;
+    color: #565454;
+    margin: 5%;
+    display: flex;
+}
+.p2{
+    font-size: 100px;
+    text-align: justify;
+    color: #000000;
+    margin: 5%;
+}
+footer{
+    background-color: #c51515;
+    font-size: 200px;
+    padding: 10px;
+}
+.aa{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ font-size: 100px;
+ color: #c51515;
+ padding: 2%;
+}
